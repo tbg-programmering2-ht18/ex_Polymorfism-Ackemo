@@ -1,0 +1,10 @@
+C:\Users\willacke\source\repos\ex_polymorfism\ex_polymorfism\bin\Debug\ex_polymorfism.exe.config
+C:\Users\willacke\source\repos\ex_polymorfism\ex_polymorfism\bin\Debug\ex_polymorfism.exe
+C:\Users\willacke\source\repos\ex_polymorfism\ex_polymorfism\bin\Debug\ex_polymorfism.pdb
+C:\Users\willacke\source\repos\ex_polymorfism\ex_polymorfism\obj\Debug\ex_polymorfism.csprojAssemblyReference.cache
+C:\Users\willacke\source\repos\ex_polymorfism\ex_polymorfism\obj\Debug\ex_polymorfism.rbCreate.resources
+C:\Users\willacke\source\repos\ex_polymorfism\ex_polymorfism\obj\Debug\ex_polymorfism.Properties.Resources.resources
+C:\Users\willacke\source\repos\ex_polymorfism\ex_polymorfism\obj\Debug\ex_polymorfism.csproj.GenerateResource.cache
+C:\Users\willacke\source\repos\ex_polymorfism\ex_polymorfism\obj\Debug\ex_polymorfism.csproj.CoreCompileInputs.cache
+C:\Users\willacke\source\repos\ex_polymorfism\ex_polymorfism\obj\Debug\ex_polymorfism.exe
+C:\Users\willacke\source\repos\ex_polymorfism\ex_polymorfism\obj\Debug\ex_polymorfism.pdb
